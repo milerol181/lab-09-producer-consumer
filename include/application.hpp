@@ -1,7 +1,7 @@
 //Copyright [2021] <Copyright Owner>
 
-#ifndef TEMPLATE_APPLICATION_HPP
-#define TEMPLATE_APPLICATION_HPP
+#ifndef INCLUDE_APPLICATION_HPP_
+#define INCLUDE_APPLICATION_HPP_
 #include <iostream>
 #include <string>
 #include <fstream>
@@ -14,7 +14,7 @@
 
 class application {
  public:
-  application(std::string _link,size_t _depth,size_t _network_threads,
+  application(std::string _link, size_t _depth, size_t _network_threads,
               size_t _parser_threads, std::string _output);
   void work();
 
