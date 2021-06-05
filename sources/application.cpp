@@ -1,6 +1,4 @@
-//
-// Created by milerol181 on 6/05/21.
-//
+//Copyright [2021] <Copyright Owner>
 
 #include "application.hpp"
 

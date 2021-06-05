@@ -1,6 +1,4 @@
-//
-// Created by milerol181 on 6/05/21.
-//
+//Copyright [2021] <Copyright Owner>
 #ifndef INCLUDE_THREADPOOL_HPP_
 #define INCLUDE_THREADPOOL_HPP_
 
